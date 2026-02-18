@@ -79,15 +79,6 @@ Kick off a new project for a team task manager.
 Run the full project start checklist and ask only missing mandatory questions.
 ```
 
-For operations track:
-
-```text
-/start
-project_track: operations
-Kick off a social media operations project for weekly planning and approvals.
-Run the full project start checklist and ask only missing mandatory questions.
-```
-
 For new projects, always start with `/start`.
 
 ## Environment Variables
